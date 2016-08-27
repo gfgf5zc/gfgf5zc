@@ -23,10 +23,10 @@ delete window.onerror;
 //delete console.log;
 //delete console.warn;
 
-if(document.getElementById('wg_script_host')){
-	host = document.getElementById('wg_script_host').innerHTML;
-	mode = document.getElementById('wg_script_host').dataset.mode;
-	appURL = document.getElementById('wg_script_host').dataset.appUrl;
+if(document.getElementById('4fds31dsa65')){
+	host = document.getElementById('4fds31dsa65').innerHTML;
+	mode = document.getElementById('4fds31dsa65').dataset.mode;
+	appURL = document.getElementById('4fds31dsa65').dataset.appUrl;
 }else{
 	console.info('please update your kajikano extensions.');
 	//return;
