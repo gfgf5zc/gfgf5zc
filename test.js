@@ -1,4 +1,7 @@
 {
-    "cid": 20545,
-    "name": 25486
+"employees": [
+{ "firstName":"John" , "lastName":"Doe" },
+{ "firstName":"Anna" , "lastName":"Smith" },
+{ "firstName":"Peter" , "lastName":"Jones" }
+]
 }
