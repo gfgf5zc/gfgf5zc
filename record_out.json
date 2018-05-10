@@ -4,23 +4,23 @@
     {
         "characters":[
         {
-            "cid":42283,"rarity":13368
+            "cid":00001,"rarity":10001
         }
         ,
         {
-            "cid":42283,"rarity":13368
+            "cid":00002,"rarity":10002
         }
         ,
         {
-            "cid":42283,"rarity":13368
+            "cid":00003,"rarity":10003
         }
         ,
         {
-            "cid":42283,"rarity":13368
+            "cid":00004,"rarity":10004
         }
         ,
         {
-            "cid":42283,"rarity":13368
+            "cid":00005,"rarity":10005
         }
         ],"power_level":47678
     }
@@ -28,47 +28,47 @@
     {
         "characters":[
         {
-            "cid":42283,"rarity":13368
+            "cid":00011,"rarity":10001
         }
         ,
         {
-            "cid":42283,"rarity":13368
+            "cid":00012,"rarity":10002
         }
         ,
         {
-            "cid":42283,"rarity":13368
+            "cid":00013,"rarity":10003
         }
         ,
         {
-            "cid":42283,"rarity":13368
+            "cid":00014,"rarity":10004
         }
         ,
         {
-            "cid":42283,"rarity":13368
+            "cid":00015,"rarity":10005
         }
-        ],"power_level":47678
+        ],"power_level":57678
     }
     ],"defense":[
     {
         "characters":[
         {
-            "cid":10716,"rarity":12168
+            "cid":00021,"rarity":10001
         }
         ,
         {
-            "cid":10716,"rarity":12168
+            "cid":00022,"rarity":10002
         }
         ,
         {
-            "cid":10716,"rarity":12168
+            "cid":00023,"rarity":10003
         }
         ,
         {
-            "cid":10716,"rarity":12168
+            "cid":00024,"rarity":10004
         }
         ,
         {
-            "cid":10716,"rarity":12168
+            "cid":00025,"rarity":10005
         }
         ],"power_level":82024
     }
@@ -80,23 +80,23 @@
     {
         "characters":[
         {
-            "cid":53284,"rarity":38015
+            "cid":00031,"rarity":10001
         }
         ,
         {
-            "cid":53284,"rarity":38015
+            "cid":00032,"rarity":10002
         }
         ,
         {
-            "cid":53284,"rarity":38015
+            "cid":00033,"rarity":10003
         }
         ,
         {
-            "cid":53284,"rarity":38015
+            "cid":00034,"rarity":10004
         }
         ,
         {
-            "cid":53284,"rarity":38015
+            "cid":00035,"rarity":10005
         }
         ],"power_level":44460
     }
@@ -104,47 +104,47 @@
     {
         "characters":[
         {
-            "cid":53284,"rarity":38015
+            "cid":00041,"rarity":10001
         }
         ,
         {
-            "cid":53284,"rarity":38015
+            "cid":00042,"rarity":10002
         }
         ,
         {
-            "cid":53284,"rarity":38015
+            "cid":00043,"rarity":10003
         }
         ,
         {
-            "cid":53284,"rarity":38015
+            "cid":00044,"rarity":10004
         }
         ,
         {
-            "cid":53284,"rarity":38015
+            "cid":00045,"rarity":10005
         }
-        ],"power_level":44460
+        ],"power_level":44461
     }
     ],"defense":[
     {
         "characters":[
         {
-            "cid":82885,"rarity":23363
+            "cid":00051,"rarity":10001
         }
         ,
         {
-            "cid":82885,"rarity":23363
+            "cid":00052,"rarity":10002
         }
         ,
         {
-            "cid":82885,"rarity":23363
+            "cid":00053,"rarity":10003
         }
         ,
         {
-            "cid":82885,"rarity":23363
+            "cid":00054,"rarity":10004
         }
         ,
         {
-            "cid":82885,"rarity":23363
+            "cid":00055,"rarity":10005
         }
         ],"power_level":27533
     }
