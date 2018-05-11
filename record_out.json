@@ -23,6 +23,9 @@
             "cid":10001,"rarity":10005,"level":"L080"
         }
         ],"power_level":47678
+        ,"uid":"aaaassssvvv"
+        ,"log_time":"2018-05-10"
+        ,"comment":"test2"
     }
     ,
     {
@@ -47,6 +50,9 @@
             "cid":10015,"rarity":10005,"level":"L080"
         }
         ],"power_level":57678
+        ,"uid":"aaaassssvvv"
+        ,"log_time":"2018-05-10"
+        ,"comment":"test2"
     }
     ],"defense":[
     {
@@ -71,6 +77,7 @@
             "cid":10025,"rarity":10005,"level":"L080"
         }
         ],"power_level":82024
+        ,"uid":"aaaassssvvv"
     }
     ]
 }
@@ -99,6 +106,9 @@
             "cid":10035,"rarity":10005,"level":"L080"
         }
         ],"power_level":44460
+        ,"uid":"aaaassssvvv"
+        ,"log_time":"2018-05-10"
+        ,"comment":"test2"
     }
     ,
     {
@@ -123,6 +133,9 @@
             "cid":10045,"rarity":10005,"level":"L080"
         }
         ],"power_level":44461
+        ,"uid":"aaaassssvvv"
+        ,"log_time":"2018-05-10"
+        ,"comment":"test2"
     }
     ],"defense":[
     {
@@ -147,6 +160,7 @@
             "cid":10055,"rarity":10005,"level":"L080"
         }
         ],"power_level":27533
+        ,"uid":"aaaassssvvv"
     }
     ]
 }
