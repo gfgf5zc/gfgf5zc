@@ -1,22 +1,22 @@
 [
 {
-    "cid":10001,"icon_path":miyaco_1.png,"name":"布丁","sa_width":101
+    "cid":10001,"icon_path":"miyaco_1.png","name":"布丁","sa_width":101
 }
 ,
 {
-    "cid":10002,"icon_path":jun_1.png,"name":"黑骑","sa_width":102
+    "cid":10002,"icon_path":"jun_1.png","name":"黑骑","sa_width":102
 }
 ,
 {
-    "cid":10003,"icon_path":nozomi_1.png,"name":"偶像","sa_width":103
+    "cid":10003,"icon_path":"nozomi_1.png","name":"偶像","sa_width":103
 }
 ,
 {
-    "cid":10004,"icon_path":kuka_1.png,"name":"抖m","sa_width":104
+    "cid":10004,"icon_path":"kuka_1.png","name":"抖m","sa_width":104
 }
 ,
 {
-    "cid":10005,"icon_path":maho_1.png,"name":"maho","sa_width":105
+    "cid":10005,"icon_path":"maho_1.png","name":"maho","sa_width":105
 }
 ,
 {
