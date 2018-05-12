@@ -47,7 +47,7 @@
         }
         ,
         {
-            "cid":10015,"rarity":4,"level":"80"
+            "cid":10003,"rarity":4,"level":"80"
         }
         ],"power_level":57678
         ,"uid":"aaaassssvvv"
@@ -77,89 +77,6 @@
             "cid":10001,"rarity":5,"level":"80"
         }
         ],"power_level":82024
-        ,"uid":"aaaassssvvv"
-    }
-    ]
-}
-,
-{
-    "attack":[
-    {
-        "characters":[
-        {
-            "cid":10031,"rarity":10001,"level":"80"
-        }
-        ,
-        {
-            "cid":10032,"rarity":10002,"level":"80"
-        }
-        ,
-        {
-            "cid":10033,"rarity":10003,"level":"80"
-        }
-        ,
-        {
-            "cid":10034,"rarity":10004,"level":"80"
-        }
-        ,
-        {
-            "cid":10035,"rarity":10005,"level":"80"
-        }
-        ],"power_level":44460
-        ,"uid":"aaaassssvvv"
-        ,"log_time":"2018-05-10"
-        ,"comment":"test2"
-    }
-    ,
-    {
-        "characters":[
-        {
-            "cid":10041,"rarity":10001,"level":"80"
-        }
-        ,
-        {
-            "cid":10042,"rarity":10002,"level":"80"
-        }
-        ,
-        {
-            "cid":10043,"rarity":10003,"level":"80"
-        }
-        ,
-        {
-            "cid":10044,"rarity":10004,"level":"80"
-        }
-        ,
-        {
-            "cid":10045,"rarity":10005,"level":"80"
-        }
-        ],"power_level":44461
-        ,"uid":"aaaassssvvv"
-        ,"log_time":"2018-05-10"
-        ,"comment":"test2"
-    }
-    ],"defense":[
-    {
-        "characters":[
-        {
-            "cid":10051,"rarity":10001,"level":"80"
-        }
-        ,
-        {
-            "cid":10052,"rarity":10002,"level":"80"
-        }
-        ,
-        {
-            "cid":10053,"rarity":10003,"level":"80"
-        }
-        ,
-        {
-            "cid":10054,"rarity":10004,"level":"80"
-        }
-        ,
-        {
-            "cid":10055,"rarity":10005,"level":"80"
-        }
-        ],"power_level":27533
         ,"uid":"aaaassssvvv"
     }
     ]
