@@ -1,38 +1,38 @@
 [
 {
-    "cid":10001,"icon_path":"miyaco_1.png","name":"布丁","sa_width":101
+    "cid":10001,"icon_path":"miyaco_{rarity}.png","name":"布丁","sa_width":101
 }
 ,
 {
-    "cid":10002,"icon_path":"jun_1.png","name":"黑骑","sa_width":102
+    "cid":10002,"icon_path":"jun_{rarity}.png","name":"黑骑","sa_width":102
 }
 ,
 {
-    "cid":10003,"icon_path":"nozomi_1.png","name":"偶像","sa_width":103
+    "cid":10003,"icon_path":"nozomi_{rarity}.png","name":"偶像","sa_width":103
 }
 ,
 {
-    "cid":10004,"icon_path":"kuka_1.png","name":"抖m","sa_width":104
+    "cid":10004,"icon_path":"kuka_{rarity}.png","name":"抖m","sa_width":104
 }
 ,
 {
-    "cid":10005,"icon_path":"maho_1.png","name":"maho","sa_width":105
+    "cid":10005,"icon_path":"maho_{rarity}.png","name":"maho","sa_width":105
 }
 ,
 {
-    "cid":10011,"icon_path":"28487","name":"测试内容1ccj","sa_width":106
+    "cid":10011,"icon_path":"tamaki_{rarity}.png","name":"猫","sa_width":106
 }
 ,
 {
-    "cid":10012,"icon_path":"27145","name":"测试内容1v22","sa_width":107
+    "cid":10012,"icon_path":"erico_{rarity}.png","name":"病娇","sa_width":107
 }
 ,
 {
-    "cid":10013,"icon_path":"65044","name":"测试内容gn5t","sa_width":108
+    "cid":10013,"icon_path":"anna_{rarity}.png","name":"中二","sa_width":108
 }
 ,
 {
-    "cid":10014,"icon_path":"84550","name":"测试内容qr2v","sa_width":109
+    "cid":10014,"icon_path":"akari_{rarity}.png","name":"妹妹法","sa_width":109
 }
 ,
 {
